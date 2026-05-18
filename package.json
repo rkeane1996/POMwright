@@ -1,0 +1,21 @@
+{
+  "name": "pomwright",
+  "version": "1.0.0",
+  "description": "AI agent generates Playwright/Cucumber POM design pattern automation test",
+  "main": "agent.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@google/adk": "^1.1.0",
+    "jszip": "^3.10.1",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@google/adk-devtools": "^1.1.0"
+  }
+}
